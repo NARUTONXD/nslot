@@ -2,13 +2,16 @@
   "AB":{
     "A":{
       "U":"https://www.minibet88.com/?pid=wjvip19",
-      "onoff":false,
+      "onoff":true,
       "Area":[
         "PH",
         "IN",
         "BR"
       ],
       "Event":[
+        "adj_complete_registration",
+        "adj_purchase1",
+        "adj_purchase1_value",
         "deposit",
         "depositSubmit",
         "deposit-success",
@@ -17,26 +20,29 @@
         "first-deposit-success",
         "firstOpen",
         "first-recharge-success",
+        "recharge-success",
         "register",
         "registerSubmit",
-        "register-success",
         "signup-success",
         "withdraw"
       ],
       "ID":[
-        "ohoogc",
-        "2afi5o",
-        "8jxdpe",
-        "i5l23m",
-        "axtgrt",
-        "3i0cpl",
-        "45o5bs",
-        "qvezg7",
-        "wzk7g1",
-        "c1kolv",
-        "qhfi0a",
-        "mjdpjv",
-        "u42v7s"
+        "bh7yzf",
+        "3obr3r",
+        "hsb4kt",
+        "5a2o9w",
+        "5mlfgf",
+        "rqh3cj",
+        "s4yp3z",
+        "ojkmve",
+        "9algww",
+        "ykxt6v",
+        "va71nq",
+        "alhu0x",
+        "rp763y",
+        "gkvy28",
+        "9xdzw2",
+        "r2p6ms"
       ]
     }
   }
